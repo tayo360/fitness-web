@@ -1,2 +1,2 @@
 # fitness-web
-## UI for fitness website
+UI for fitness website
